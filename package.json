@@ -1,0 +1,11 @@
+{
+  "name": "ensure-http",
+  "version": "0.0.1",
+  "description": "ensures that http is prepended to a url",
+  "main": "index.js",
+  "author": {
+    "email": "admin@petermolgaard.com",
+    "name": "Peter Andreas Moelgaard"
+  },
+  "license": "MIT"
+}
